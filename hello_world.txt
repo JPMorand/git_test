@@ -1,0 +1,1 @@
+Some uninteresting text for the git exercise.
